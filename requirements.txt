@@ -2,3 +2,6 @@ jupyter
 numpy
 networkx
 matplotlib
+sklearn
+node2vec
+python-louvain
